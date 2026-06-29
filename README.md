@@ -140,7 +140,7 @@ Key areas:
 ### Security Areas
 
 ```text
-Web Security        | Authentication, authorization, access control, file upload testing
+Web Security       | Authentication, authorization, access control, file upload testing
 Active Directory   | Enumeration, attack paths, credential abuse, privilege escalation
 Linux Security     | Enumeration, privilege escalation, service review
 Windows Security   | Enumeration, privilege escalation, lateral movement concepts
