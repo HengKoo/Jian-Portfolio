@@ -160,15 +160,15 @@ Reporting          | Evidence collection, structured findings, technical documen
 
 ---
 
-## GitHub Activity
+## Repository Direction
 
-<div align="center">
+I am organizing my GitHub around practical cyber security work, including offensive security methodology, web application testing, Active Directory lab methodology, and security automation.
 
-![HengKoo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HengKoo\&show_icons=true\&theme=github_dark\&hide_border=true)
+Recommended pinned repositories:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HengKoo\&layout=compact\&theme=github_dark\&hide_border=true)
+TBA.
 
-</div>
+Each repository is intended to document practical methodology, tools used, lessons learned, and safe non-confidential examples.
 
 ---
 
